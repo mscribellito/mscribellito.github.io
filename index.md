@@ -1,4 +1,4 @@
-```c
+```go
 func main() { return 0 }
 ```
 
